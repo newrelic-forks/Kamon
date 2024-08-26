@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "axios": "0.19.0",
-    "bootstrap": "4.3.1",
+    "axios": "1.6.3",
+    "bootstrap": "5.0.0",
     "ts-option": "1.1.5",
     "underscore": "1.9.1",
     "vue": "2.6.10",
